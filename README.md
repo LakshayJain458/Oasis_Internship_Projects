@@ -58,6 +58,13 @@ A console-based online examination system where users can log in, take exams, an
   - **𝒐𝒊𝒃𝒔𝒊𝒑_𝒕𝒂𝒔𝒌𝒏𝒐_3/**: Code for the ATM Interface.
   - **𝒐𝒊𝒃𝒔𝒊𝒑_𝒕𝒂𝒔𝒌𝒏𝒐_4/**: Code for the Online Examination System.
 
+## Certification
+
+I have successfully completed the **Oasis Internship in Java Development**, where I developed the projects in this repository. You can see my certificate below:
+
+![Oasis Internship Certificate](https://github.com/user-attachments/files/17090792/Lakshay.Jain.Certificate.pdf)
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
