@@ -1,4 +1,3 @@
-![Lakshay Jain Certificate_page-0001](https://github.com/user-attachments/assets/e754eae2-ba82-43ca-9e7d-e90f590c0e43)
 # Oasis Internship - Java Development Projects
 
 This repository contains four Java-based console applications developed as part of the Oasis Internship in Java Development. Each project demonstrates core Java programming skills and is stored inside the `src` folder.
